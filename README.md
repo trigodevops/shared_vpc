@@ -12,4 +12,4 @@ Please create terraform modules that deployed shred vpc design:
 * [Shared VPC Overview](https://cloud.google.com/vpc/docs/shared-vpc)
 * [Provisioning Shared VPC](https://cloud.google.com/vpc/docs/provisioning-shared-vpc)
 * [Shared VPC Terraform](https://registry.terraform.io/modules/terraform-google-modules/project-factory/google/latest/examples/shared_vpc)
-* [Trigo Design](https://github.com/trigodevops/shared_vpc/issues/2)
+* [Trigo Design](https://github.com/trigodevops/shared_vpc/issues/3)
