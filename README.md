@@ -1,6 +1,6 @@
 # DevOps Shared Vpc Assignment
 
-Please create terraform modules that deployed shred vpc design:
+Please create terraform modules that deployed shared vpc design:
 
 1.  host project
 2.  2 services projects
