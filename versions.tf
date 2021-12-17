@@ -21,17 +21,5 @@ terraform {
       source  = "hashicorp/google"
       version = "~> 3.30"
     }
-    google-beta = {
-      source  = "hashicorp/google-beta"
-      version = "~> 3.30"
-    }
-    null = {
-      source  = "hashicorp/null"
-      version = "~> 2.1"
-    }
-    random = {
-      source  = "hashicorp/random"
-      version = "~> 2.2"
-    }
   }
 }
